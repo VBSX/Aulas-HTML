@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#q1 {
+    width: 100%;
+    height: 100%;
+    background-color: #039BE5;
+    position: absolute;
+    
+} 
+
+#q2 {
+    width:  100px;
+    height:  100px;
+    background-color: darkkhaki;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+#q3 {
+    width:  100px;
+    height:  100px;
+    background-color: darkkhaki;
+    position: relative;
+    right: 0;
+
+}
+#q4 {
+    width:  100px;
+    height:  100px;
+    background-color: darkkhaki;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#q5 {
+    width:  100px;
+    height:  100px;
+    background-color: darkkhaki;
+    position: absolute;
+    bottom: 0;
+
+}

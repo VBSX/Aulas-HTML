@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+div#pai {
+    width: 500px;
+    height: 500px;
+    background-color: darkgreen;
+    position: relative;
+    top: 30px;
+} 
+
+div#filha {
+    width:  100px;
+    height:  100px;
+    background-color: darkkhaki;
+    position: absolute;
+    bottom: 0;
+
+}
