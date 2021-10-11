@@ -35,3 +35,26 @@ article #article-header {
     border-bottom: 3px solid blue;
 
 }
+article #article_header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+nav#menu {
+    width: 80%;
+    height: auto;
+    padding: 10px;
+    margin: 0 auto;
+    /* background-color: seagreen; */
+}
+nav#menu .item-menuzinho {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+nav#menu .item-menuzinho:hover {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+}
