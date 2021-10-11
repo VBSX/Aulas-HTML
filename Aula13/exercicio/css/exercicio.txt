@@ -1,0 +1,7 @@
+1. Dê uma definição para o elemento HTML <body>.
+
+2. É correto dizer que por padrão o todos os elementos HTML possuem uma definição
+de margin e padding?
+sim, é correto;
+
+3. Uma tag <figure> pode conter várias tags <figurecaption>
